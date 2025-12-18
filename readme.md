@@ -12,9 +12,9 @@ The goal is to ensure that resilience is engineered into systems from the outset
 
 **Engineered_controls.pdf** – Writeup describing this product and the concept of engineered controls.
 
-**Engctrls-full.csv** – Engineering controls database in comma-delimited format
+**Engctrls-full_csv.zip** – Engineering controls database in comma-delimited format
 
-**Engctrls-full.json** – Engineering controls database in JSON format
+**Engctrls-full_json.zip** – Engineering controls database in JSON format
 
 ---
 
