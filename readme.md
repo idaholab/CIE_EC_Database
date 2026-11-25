@@ -1,3 +1,5 @@
+Next round of engineered controls cataloging efforts scheduled for Q2 in FY27.
+
 # CIE Engineered Controls
 
 A research repository from the **Cyber-Informed Engineering (CIE)** program at Idaho National Laboratory. This repository contains the Engineered Controls Database — a catalog of engineered controls mapped to cyber-physical resilience roles across all 18 DHS Critical Infrastructure sectors — along with a browser-based dashboard for exploring it.
